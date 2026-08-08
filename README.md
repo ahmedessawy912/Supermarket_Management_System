@@ -117,7 +117,7 @@ The system is designed to **fail safely, fail clearly, and fail early** — neve
 
 ## 👥 Team & Module Breakdown
 
-This project was developed collaboratively by a team of 5 members, with the codebase divided into clearly commented sections (Member 1 through Member 5), each owning an independent module of the system (e.g., product browsing and display, cart management, receipt generation, statistics).
+This project was developed collaboratively by a team of 5 members, with the codebase divided into clearly commented sections, each owning an independent module of the system (e.g., product browsing and display, cart management, receipt generation, statistics).
 
 ---
 
